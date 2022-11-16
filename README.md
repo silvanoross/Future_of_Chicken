@@ -47,12 +47,30 @@ Check the to make sure everything has been installed properly
     conda list xgboost
     conda list scikit-learn
 ```
-
-## Usage
+---
 
 ## Pros and Cons of Prophet Compared to XGBoost
 
+---
+
+## Similarities and Differences
+
+---
+
 ## Summary of Predictions
+
+---
+
+### Prophet:
+**Predictions 3 Years** <div style="text-align: left"><img src="./images/prophet_three_changepoints.png" width="800" /></div>
+
+
+### XGBoost:
+**Simple Features:** <div style="text-align: left"><img src="./images/simple_features.png" width="100" /></div><div style="text-align: left"><img src="./images/simple_feature_plot.png" width="800" /></div>
+
+**Mulitple Features:** <div style="text-align: left"><img src="./images/multi_feature.png" width="300" /></div><div style="text-align: left"><img src="./images/three_year_plot.png" width="800" /></div>
+
+
 
 ## Collaborator Information
 
