@@ -22,6 +22,32 @@ Libraries used:
 
 ## Installation Guide
 
+If you are using an anaconda or a conda environment (which is highly recommended) chances are pandas, hvplot and jupyter labs are already installed in your virtual environment. In addition, installing Facebook's Prophet library will be necessary
+
+For a full install activate a conda development environment and run in GitBash if not already installed, otherwise pip can be used:
+```python
+    conda install pandas
+    conda install jupyterlab
+    conda install -c pyviz hvplot
+```
+
+To install the other dependencies not included in the anaconda environment run:
+```python
+    conda install prophet
+    conda install -c conda-forge py-xgboost 
+    conda install -c intel scikit-learn
+```
+
+Check the to make sure everything has been installed properly
+```python
+    conda list pandas
+    conda list hvplot
+    conda list jupyter lab
+    conda list prophet
+    conda list xgboost
+    conda list scikit-learn
+```
+
 ## Usage
 
 ## Pros and Cons of Prophet Compared to XGBoost
