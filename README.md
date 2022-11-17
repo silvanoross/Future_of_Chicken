@@ -51,18 +51,33 @@ Check the to make sure everything has been installed properly
 
 ## Pros and Cons of Prophet Compared to XGBoost
 
+* XGBoost overfit the data 
+* XGBoost did not weigh the increase in year heavy enough when creating predictions, does not pick up on increasing trend
+* XGBoost kind of recognized a seasonality to the data, but it soes not entirely line up with Prophet
+* Prophet makes a reasonable looking predictive model for the future
+
+
 ---
 
 ## Similarities and Differences
+
+**XGBoost picked up on some seasonality** - The peaks lie between months 4-6 and the dips are in January of each year
+<div style="text-align: left"><img src="./images/seasonality_xgboost.png" width="500" /></div>
+
+**Prophet** - Has a seasonality function built in to its software
+<div style="text-align: left"><img src="./images/seasonality_trends.png" width="700" /></div>
+
 
 ---
 
 ## Summary of Predictions
 
+
+
 ---
 
 ### Prophet:
-**Predictions 3 Years** <div style="text-align: left"><img src="./images/prophet_three_changepoints.png" width="800" /></div>
+**Predictions 3 Years** <div style="text-align: left"><img src="./images/prophet_three_changepoints.png" width="700" /></div>
 
 
 ### XGBoost:
