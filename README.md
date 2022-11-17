@@ -92,12 +92,12 @@ Check the to make sure everything has been installed properly
 David Hutsell
 > email: dhutsellcfncw@gmail.com |
 > [Git Hub](https://github.com/dhut1621) |
-> [LinkedIn]() 
+> [LinkedIn](https://www.linkedin.com/in/david-hutsell-4b013795/) 
 
 Ryan Svendson
 > email: rsvendson@gmail.com |
 > [Git Hub](https://github.com/RyanSvendson) |
-> [LinkedIn]()
+> [LinkedIn](https://www.linkedin.com/in/ryan-svendson-cfp/)
 
 Saidee Padilla
 > email: |
