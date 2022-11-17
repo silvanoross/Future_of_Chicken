@@ -100,9 +100,9 @@ Ryan Svendson
 > [LinkedIn](https://www.linkedin.com/in/ryan-svendson-cfp/)
 
 Saidee Padilla
-> email: |
+> email: SPadilla51@bigbend.edu |
 > [Git Hub](https://github.com/saideepadilla) |
-> [LinkedIn]() 
+> [LinkedIn](https://www.linkedin.com/in/saidee-padilla-127684247/) 
 
 Silvano Ross: 
 > email: silvanoross3@gmail.com |
