@@ -90,7 +90,7 @@ Check the to make sure everything has been installed properly
 ## Collaborator Information
 
 David Hutsell
-> email: |
+> email: dhutsellcfncw@gmail.com |
 > [Git Hub](https://github.com/dhut1621) |
 > [LinkedIn]() 
 
