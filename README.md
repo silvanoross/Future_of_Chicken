@@ -91,17 +91,17 @@ Check the to make sure everything has been installed properly
 
 David Hutsell
 > email: |
-> [Git Hub]() |
+> [Git Hub](https://github.com/dhut1621) |
 > [LinkedIn]() 
 
 Ryan Svendson
 > email: rsvendson@gmail.com |
-> [Git Hub]() |
+> [Git Hub](https://github.com/RyanSvendson) |
 > [LinkedIn]()
 
 Saidee Padilla
 > email: |
-> [Git Hub]() |
+> [Git Hub](https://github.com/saideepadilla) |
 > [LinkedIn]() 
 
 Silvano Ross: 
