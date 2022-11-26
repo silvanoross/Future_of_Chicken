@@ -53,7 +53,7 @@ Check the to make sure everything has been installed properly
 
 * XGBoost overfit the data 
 * XGBoost did not weigh the increase in year heavy enough when creating predictions, does not pick up on increasing trend
-* XGBoost kind of recognized a seasonality to the data, but it soes not entirely line up with Prophet
+* XGBoost kind of recognized a seasonality to the data, but it does not entirely line up with Prophet
 * Prophet makes a reasonable looking predictive model for the future
 
 
