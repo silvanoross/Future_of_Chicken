@@ -1,4 +1,4 @@
-# Meat_Predictor
+# Predicting Meat Futures
 Assuming we are in a farming role we want to be able to predict the seasonality of chicken and potentially buy chicken futures when the prices are going to be the lowest. We also want to use both the Facebook Prophet time-series machine learning model and the XGBoost regression machine learning model to predict what the price will be in one year and three years.
 
 ## Technologies
