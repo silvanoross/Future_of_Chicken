@@ -70,7 +70,7 @@ Check the to make sure everything has been installed properly
 
 ---
 
-## Summary of Predictions
+## Summary of Seasonality Predictions
 #### We can see that chicken prices appear to spike in late February and are at their lowest in April on a yearly basis. There is another run during the summer lasting through September of each year. 
 
 ***It would be best to buy chicken futures at two points:*** 
@@ -89,6 +89,12 @@ Check the to make sure everything has been installed properly
 
 **Mulitple Features:** <div style="text-align: left"><img src="./images/multi_feature.png" width="300" /></div><div style="text-align: left"><img src="./images/three_year_plot.png" width="800" /></div>
 
+### Summary of Prophet and XGBoost Three Year Predictions
+* Prophet expects the price to come back down to its average linear regression line after its major spike to an average price of $3.5/pound.
+* Prophet shows us a critical point where the volatility in chicken prices has been steadily increasing since the point marked in red around 2017.
+* XGBoost does not pick up on the average increase of price per year, but does show us that a price reduction is likely to happen as well.
+* Overall it seems apparent that chicken prices could be largely inflated and may be slated to drop in the near future. 
+* Buying chicken futures now may prove to be a risky decision and we may want to wait until the price retracts to its normal predicted amount before investing.
 
 
 ## Collaborator Information
