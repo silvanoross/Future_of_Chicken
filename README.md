@@ -71,7 +71,11 @@ Check the to make sure everything has been installed properly
 ---
 
 ## Summary of Predictions
+#### We can see that chicken prices appear to spike in late February and are at their lowest in April on a yearly basis. There is another run during the summer lasting through September of each year. 
 
+***It would be best to buy chicken futures at two points:*** 
+> 1. after September in hopes of capitalizing on the spike in late February.
+> 2. Directly after the drop around April to get in a good position for the summer surge.
 
 
 ---
